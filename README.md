@@ -3,6 +3,7 @@
 
  ✨**NickByteEcho** ✨ 
 
+``` lisp
 ;; Here , My Info :
 (defun my-info ()
   "Print my name, code editor, and programming languages."
@@ -14,3 +15,4 @@
 ;; 绑定到一个快捷键，例如 F1
 (global-set-key (kbd "<f1>") 'my-info)
 
+```
