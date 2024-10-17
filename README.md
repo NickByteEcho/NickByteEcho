@@ -9,7 +9,7 @@
   "Print my name, code editor, and programming languages."
   (interactive)
   (message " 🔭 My name is NickByteEcho.")
-  (message " ⚡ My code editor is Emacs. ")
+  (message " ⚡ My editor is Emacs. ")
   (message " 😄 I am proficient in Python, C, Rust, Emacs Lisp, and a bit of web languages."))
 
 ;; F1
